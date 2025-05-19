@@ -1,0 +1,9 @@
+CMake Error at C:/Espressif/frameworks/esp-idf-v5.4.1/tools/cmake/component.cmake:317 (message):
+  Include directory
+  'C:/Users/harir/TENSORFLOW_/esp32s3_motherboard_detection/components/esp-dl-backup/esp-dl/include'
+  is not a directory.
+Call Stack (most recent call first):
+  C:/Espressif/frameworks/esp-idf-v5.4.1/tools/cmake/component.cmake:492 (__component_add_include_dirs)
+  components/esp-dl-backup/CMakeLists.txt:1 (idf_component_register)
+
+
